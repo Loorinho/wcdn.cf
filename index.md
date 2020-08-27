@@ -7,3 +7,4 @@ For abuse contact or other inquiries, contact us via [Email](mailto:webcirque@gm
 ### List
 * dc.wcdn.cf
 * ac.wcdn.cf
+* ac2.wcdn.cf
