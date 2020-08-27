@@ -8,3 +8,4 @@ For abuse contact or other inquiries, contact us via [Email](mailto:webcirque@gm
 * dc.wcdn.cf
 * ac.wcdn.cf
 * ac2.wcdn.cf
+* derpi.wcdn.cf
