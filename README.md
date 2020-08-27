@@ -1,2 +1,2 @@
-# wcdn.cf
-Portal site
+# Worldwide CDN
+A list of usable Cloudflare IPs.
